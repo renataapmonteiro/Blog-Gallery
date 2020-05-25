@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="phto.css">
+    <link href="https://fonts.googleapis.com/css?family=Dosis|ZCOOL+KuaiLe&display=swap" rel="stylesheet">
+
+    <title>Photo Gallery</title>
+</head>
+
+<body>
+
+    <p>Photo Gallery/Lool</p>
+
+    <img src=" https://images.unsplash.com/photo-1555851604-3623249a0f0e?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="">  
+    <img src=" https://images.unsplash.com/photo-1459664018906-085c36f472af?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="">
+    <img src=" https://images.unsplash.com/photo-1466989891789-1556d82d863f?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="">
+
+    <img src=" https://images.unsplash.com/photo-1486652532407-29437ce3b5e2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjI0MX0&auto=format&fit=crop&w=750&q=80" alt="">
+    <img src=" https://images.unsplash.com/photo-1485843642101-8239735318c2?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="">
+    <img src=" https://images.unsplash.com/photo-1483794344563-d27a8d18014e?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="">
+
+    <img src=" https://images.unsplash.com/photo-1540005597511-eae2f0bd8af1?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="">
+    <img src=" https://images.unsplash.com/photo-1482772933081-0f28cb6bf426?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="">
+    <img src=" https://images.unsplash.com/photo-1521219625829-6823ab1a8c55?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="">
+
+</body>
+
+</html>
